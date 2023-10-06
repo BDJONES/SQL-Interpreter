@@ -27,7 +27,3 @@ Follow these steps to get started with the SQL Interpreter project.
 Before using the SQL Interpreter, ensure you have the following prerequisites:
 
 - C++ 17 compiler installed on your system.
-
-### Installation
-
-1. Clone this repository to your local machine:
